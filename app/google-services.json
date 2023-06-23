@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "293885896650",
+    "project_id": "notipush2023-c9cf4",
+    "storage_bucket": "notipush2023-c9cf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293885896650:android:3d9e3f0ef7d2d50efa9133",
+        "android_client_info": {
+          "package_name": "com.example.notipush2023"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293885896650-gj8gcoq05e17ht8097siijcp29sjn56q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGFsIKXD0jVonk5bVLbDgaOziHWttUtS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293885896650-gj8gcoq05e17ht8097siijcp29sjn56q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
